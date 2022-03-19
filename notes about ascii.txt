@@ -1,0 +1,4 @@
+#flip code need to be modified , cuz flip function miss some pixels in process 
+#user interaction is missing ( asking for pic location , asking for resize, asking for the brightness , flipped or normal pic )
+#packaging the whole code is still missing 
+#there's a problem with the kernal since i added more methods the kernal keeps running without stop the only way to run again is by closing the kernal and opening new one
